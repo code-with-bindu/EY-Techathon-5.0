@@ -1,0 +1,38 @@
+Frontend (Mobile App Development)
+Flutter: Cross-platform app development (Android and iOS) with smooth UI/UX, voice integration, and offline capabilities.
+
+
+Backend
+Firebase: Real-time NoSQL database (Firestore), user authentication, push notifications (FCM), and cloud storage for media.
+
+
+Voice Interaction & AI Chatbot
+Dialogflow: AI-powered chatbot for voice-based conversations in regional languages.
+Google Cloud Speech-to-Text & Text-to-Speech APIs: For voice input/output and real-time interactions.
+
+
+Language Support
+Google Cloud Translation API: Dynamic translation to regional languages, ensuring accessibility.
+
+
+Offline Functionality
+SQLite: Local database for offline data storage (savings, progress).
+WorkManager/Background Fetch: Sync data when the device is online.
+
+
+Data Security
+SSL Encryption: Secure data transmission.
+GDPR Compliance: Data privacy and secure handling of user information.
+
+
+User Engagement
+Firebase Cloud Messaging (FCM): Push notifications for reminders and achievements.
+Lottie Animations: Engaging, lightweight animations for savings milestones.
+
+
+Monitoring & Analytics
+Google Analytics for Firebase: Track user behavior and engagement for continuous improvement.
+
+
+Cloud Infrastructure
+Google Cloud Platform (GCP): Scalable backend and AI model hosting, integrated with Firebase for seamless app performance.
