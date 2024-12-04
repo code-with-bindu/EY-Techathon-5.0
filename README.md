@@ -1,4 +1,5 @@
 # EY-Techathon-5.0
+
 Financial inclusion - AI powered financial advisor for rural India/or those new to financial literacy
 
 SHAKTI -AI
@@ -19,6 +20,7 @@ Key Features of Shakti AI
 
 
 Voice-Based AI Guide (In Regional Languages): Provides audio instructions in local languages for illiterate users. For example, it guides users on how to save money or access government schemes through simple voice interactions.
+
 
 Micro-Savings Encouragement: Promotes daily savings with small challenges (₹5-₹10) and celebrates milestones with audio and visual rewards to motivate consistent savings.
 
