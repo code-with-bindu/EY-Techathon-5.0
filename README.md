@@ -8,6 +8,7 @@ SHAKTI -AI
 In rural India, many women, particularly those with limited literacy and access to financial services, face significant barriers to financial independence and empowerment. Traditional financial tools, such as budgeting apps and investment platforms, often overwhelm and intimidate these women, leading to low adoption and usage. The key to empowering women in rural areas lies not in complex systems, but in simple, actionable, and culturally relevant solutions that integrate easily into their daily lives. Shakti AI is a simplified AI-powered financial empowerment app designed to help rural women overcome these challenges and improve their financial well-being through practical, everyday solutions.
 
 
+
 The primary goal of Shakti AI is to act as a digital financial guide that speaks to users in their local languages, helping them take small but impactful steps towards financial independence. The app is designed to be intuitive, voice-based, and highly visual, catering to women like Lakshmi, who may have limited literacy but have a strong desire to improve their financial situation.
 
 
